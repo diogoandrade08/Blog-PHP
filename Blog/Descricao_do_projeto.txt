@@ -1,0 +1,12 @@
+Projeto 1 ----> Criação de um blog 
+
+
+° O primeiro projeto em PHP vai ser constituído na utilização do REAPROVEITAMENTO DE DADOS,
+para que não tenha muita repetição desnecessária de códigos.
+
+° Também vai ser trabalho com DADOS MOCADOS, ou seja, não haverá a utilização de BANCO DE 
+DADOS, e sim a utilização de arquivos criados como forma de banco de dados. 
+
+° Projeto é totalmente responsivo.
+
+° Não houve a utilização de Frameworks.
