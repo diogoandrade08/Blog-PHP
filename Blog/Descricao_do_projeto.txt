@@ -1,7 +1,7 @@
 Projeto 1 ----> Criação de um blog 
 
 
-° O primeiro projeto em PHP vai ser constituído na utilização do REAPROVEITAMENTO DE DADOS,
+° Projeto em PHP vai ser constituído na utilização do REAPROVEITAMENTO DE DADOS,
 para que não tenha muita repetição desnecessária de códigos.
 
 ° Também vai ser trabalho com DADOS MOCADOS, ou seja, não haverá a utilização de BANCO DE 
